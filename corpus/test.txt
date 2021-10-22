@@ -1,0 +1,30 @@
+# text = 일본을 대표해 아시아시리즈에 참가하게 됐다 .
+# head_tail_text = 일본+을 대표해 아시아시리즈+에 참가하+게 됐+다 .
+
+# text = 다만 이성은 내 성경의 슬픈 첫 구절이었다 .
+# head_tail_text = 다만 이성+은 내 성경+의 슬픈 첫 구절+이었다 .
+
+# text = 잠실에서
+# head_tail_text = 잠실+에서
+
+# text = 우리가
+# head_tail_text = 우리가
+
+# text = 잠실에서 우리가
+# head_tail_text = 잠실에서 우리+가
+
+# text = 잠실에서 우리가 더
+# head_tail_text = 잠실에서 우리+가 더
+
+# text = 잠실에서 우리가 더 강했다
+# head_tail_text = 잠실+에서 우리+가 더 강했+다
+
+# text = 잠실에서 우리가 더 강했다 .
+# head_tail_text = 잠실+에서 우리+가 더 강했+다 .
+
+# text = 앞으로도 이런 얘기가 계속 나올 것
+# head_tail_text = 앞+으로도 이런 얘기+가 계속 나올 것
+
+# text = 나는 KAI 사장이 아니다 .
+# head_tail_text = 나+는 KAI 사장+이 아니+다 .
+
